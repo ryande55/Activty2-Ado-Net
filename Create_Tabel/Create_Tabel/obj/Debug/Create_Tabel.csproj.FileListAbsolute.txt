@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.exe.config
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.exe
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.pdb
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.exe
+C:\Users\ASUS\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.pdb
